@@ -11,8 +11,6 @@ I’m a professional web developer. I am skilled with Laravel, HTML, CSS, PHP, j
  ✅ PHP / LARAVEL <br>
  ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
  ✅  JQUERY / MYSQL <br>
-<br><br>
-
 - 🔭 I’m currently working on At home 
 - 🌱 I’m currently learning React js 
 - 👯 I’m looking to collaborate on Github 
