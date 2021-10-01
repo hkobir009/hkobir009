@@ -27,6 +27,10 @@ Skills & Experiance:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir009&theme=radical&show_icons=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkobir009&repo=github-readme-stats" />
+</a>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hkobir009)  
 
 ![GitHub metrics](https://metrics.lecoq.io/hkobir009)  
