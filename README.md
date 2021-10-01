@@ -18,6 +18,8 @@ I’m a professional web developer. I am skilled with Laravel, HTML, CSS, PHP, j
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir009)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkobir009&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hkobir009)  
 
 ![GitHub metrics](https://metrics.lecoq.io/hkobir009)  
