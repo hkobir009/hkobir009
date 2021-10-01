@@ -8,10 +8,10 @@ I’m a professional web developer. I am skilled with Laravel, HTML, CSS, PHP, j
 
 👨‍💻 Skills & Experiance:
 <hr>
- ✅ JavaScript
- ✅ PHP / LARAVEL
- ✅ HTML5 / CSS3 / SASS / Bootstrap
- ✅  JQUERY / MYSQL
+ ✅ JavaScript <br>
+ ✅ PHP / LARAVEL <br>
+ ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+ ✅  JQUERY / MYSQL <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkobir009&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
