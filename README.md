@@ -12,19 +12,13 @@ I’m a professional web developer. I am skilled with Laravel, HTML, CSS, PHP, j
  ✅ PHP / LARAVEL <br>
  ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
  ✅  JQUERY / MYSQL <br>
-
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkobir009&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 - 🔭 I’m currently working on At home 
 - 🌱 I’m currently learning React js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Laeavel development 
-
-☕ Connect with me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hkobir009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jewel.kobir.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hkobir009/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hkobir4519)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16861774)  
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir009&theme=radical&show_icons=true)
 
