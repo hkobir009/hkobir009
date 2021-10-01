@@ -6,21 +6,17 @@
 
 I’m a professional web developer. I am skilled with Laravel, HTML, CSS, PHP, jQuery, Bootstrap, And MySQL .I can resolve any issues related to Laravel project. You can share your projects, doubts, queries anytime, I will be in touch always.
 
-👨‍💻 Skills & Experiance:
-<hr>
+👨‍💻 Skills & Experiance: <hr>
  ✅ JavaScript <br>
  ✅ PHP / LARAVEL <br>
  ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
  ✅  JQUERY / MYSQL <br>
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkobir009&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on At home 
 - 🌱 I’m currently learning React js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Laeavel development 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir009&theme=radical&show_icons=true)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkobir009)](https://github.com/anuraghazra/github-readme-stats)
 
